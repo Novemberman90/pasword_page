@@ -9,29 +9,52 @@
     width: 100%;
 }
 
-.check-block {
+.check-block1 {
+    background-color: gray;
+      width: 33%;
+      margin: 0;
+      height: 20px;
+      transition: 1s;
+  }
+
+.check-block2 {
+    background-color: gray;
+      width: 33%;
+      margin: 0;
+      height: 20px;
+      transition: 1s;
+  }
+
+.check-block3 {
   background-color: gray;
-    width: 100%;
+    width: 33%;
+    margin: 0;
     height: 20px;
     transition: 1s;
 }
 
+.check-field {
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 0px 10px 0px;
+}
+
 ._red {
     background-color:red;
-    width: 33.3%;
-    border-right: 2px solid;
+    width: 33%;
+   
 }
 
 ._yellow {
     background-color: yellow;
-    width: 66.6%;
-    border-right: 2px solid;
+    width: 33%;
+    
 }
 
 ._green {
     background-color: green;
-    width: 100%;
-    border-right: 2px solid;
+    width: 33%;
+    
 }
 
 ._grey {
