@@ -1,4 +1,5 @@
 # pasword_page
+link: https://novemberman90.github.io/pasword_page/
 # Task:
 1. Create a field for entering a password, under the field add 3 sections which will show the strength of the password;
 2. Changes in password strength must take place in real time;
